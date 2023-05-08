@@ -1,3 +1,5 @@
 - debug command - yarn nodemon --inspect .\index.js
 - init tsconfig.json - yarn tsc --init
 - ts compilator in watch mode - yarn tsc -w
+- URI params - divided per /: Getting in Express using req.params.param_name
+- query params - divided per ? + & Getting in Express using req.query.param_name
